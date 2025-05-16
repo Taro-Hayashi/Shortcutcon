@@ -48,9 +48,7 @@ Download flash_nuke.uf2 from the bottom item on this page and drag and drop it t
 Once the drive disappears and reappears, the reset is complete.
 
 ## Sorce
-- qmk_firmware
-
-https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/short_cut_con
+- https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/short_cut_con
 
 ## Thanks
 This keyboard was commissioned and produced based on an idea by figure prototype maker CKB.
