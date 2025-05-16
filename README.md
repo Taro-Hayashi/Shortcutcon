@@ -16,7 +16,7 @@ Recognized as an RPI-RP2 drive when connected to a PC.
 
 Please download this file and drag and drop it there.
 
-- [tarohayashi_wheel_con_via.uf2](https://github.com/Taro-Hayashi/wheelcon/releases/latest/download/tarohayashi_wheel_con_via.uf2)
+- [tarohayashi_short_cut_con_default.uf2](https://github.com/Taro-Hayashi/Shortcutcon/releases/download/0.28.3/tarohayashi_short_cut_con_default.uf2)
 
 When the RPI-RP2 drive automatically disappears, you are done.
 
