@@ -7,7 +7,7 @@
 
 ## Required
 - Type-C USB Cable
-- Windows/Mac/Linux (Can be used on iPad or Android but not configured)
+- Windows/Mac (Can be used on iPad or Android but not configured)
 
 
 ## Usage
