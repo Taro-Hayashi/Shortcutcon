@@ -22,7 +22,7 @@ When the RPI-RP2 drive automatically disappears, you are done.
 
 ## Customize
 
-Connect to Remap and select Customise.
+Connect to Remap and select Customise using Google Chrome.
 
 - remap https://remap-keys.app/
 
